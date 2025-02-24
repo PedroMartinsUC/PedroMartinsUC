@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;About me! </h3>
 
 - 🏠 &nbsp; Born and currently living in Portugal.
-- 🎓 &nbsp; Bachelor's Degree in **Engenharia Informática** at <a href="uc.pt">Universidade de Coimbra</a> and currently finishing a Master's Degree in **Cyber Security**.
+- 🎓 &nbsp; Bachelor's Degree in **Engenharia Informática** and Master's Degree in **Cyber Security** at <a href="uc.pt">Universidade de Coimbra</a>.
 - 🌱 &nbsp; Always trying to learn more!
 
 <h3> :rocket: &nbsp;My Skills! </h3>
